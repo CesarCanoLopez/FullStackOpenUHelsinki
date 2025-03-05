@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "axios": "^1.8.1",
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "fullstackopenuhelsinki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server -p3001 --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarCanoLopez/FullStackOpenUHelsinki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarCanoLopez/FullStackOpenUHelsinki/issues"
+  },
+  "homepage": "https://github.com/CesarCanoLopez/FullStackOpenUHelsinki#readme",
+  "description": ""
+}
